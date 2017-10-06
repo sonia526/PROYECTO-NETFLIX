@@ -52,7 +52,7 @@ nav .signin{
 	font-size: 1.8vw;
 }
 .pitch_title{
-	font-size: 3em;
+font-size: 3em;
 	margin:0 0 0.2em;
 	font-weight: 700;
 }
@@ -281,4 +281,9 @@ footer{
   font-size: 13px;
   margin: 24px 0 50px;
 }
-
+.portada{
+  margin-left: 40px;
+}
+.letrita-portada{
+  font-size: 50px;
+}
